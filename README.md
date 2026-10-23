@@ -23,4 +23,4 @@
 ./gradlew :androidApp:assembleDebug
 ```
 
-<img src="desctop-app.gif" width="500" alt="Desktop Demo" />
+
