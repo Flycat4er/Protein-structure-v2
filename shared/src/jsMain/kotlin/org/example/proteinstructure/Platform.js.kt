@@ -5,3 +5,7 @@ class JsPlatform : Platform {
 }
 
 actual fun getPlatform(): Platform = JsPlatform()
+
+actual fun setAppLocale(language: String) {}
+
+actual fun getAppLocale(): String = "ru"

@@ -5,3 +5,7 @@ class WasmPlatform : Platform {
 }
 
 actual fun getPlatform(): Platform = WasmPlatform()
+
+actual fun setAppLocale(language: String) {}
+
+actual fun getAppLocale(): String = "ru"

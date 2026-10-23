@@ -5,3 +5,7 @@ interface Platform {
 }
 
 expect fun getPlatform(): Platform
+
+expect fun setAppLocale(language: String)
+
+expect fun getAppLocale(): String

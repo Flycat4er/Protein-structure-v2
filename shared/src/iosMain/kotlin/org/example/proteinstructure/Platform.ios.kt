@@ -7,3 +7,7 @@ class IOSPlatform: Platform {
 }
 
 actual fun getPlatform(): Platform = IOSPlatform()
+
+actual fun setAppLocale(language: String) {}
+
+actual fun getAppLocale(): String = "ru"
