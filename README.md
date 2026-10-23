@@ -1,3 +1,4 @@
+
 # Protein-structure
 
 ## Быстрый запуск
@@ -24,6 +25,8 @@
 ```
 
 
-| Android |
+| WebApp |
 | :---: |
-| <img src="android-app.gif" width="260" alt="Android Demo" /> |
+|<img width="1280" height="720" alt="web-" src="https://github.com/user-attachments/assets/7eb99266-548e-4ed5-a8cd-fb5bdb8e1ae5" />  |
+
+
