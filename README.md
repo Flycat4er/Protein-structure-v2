@@ -23,4 +23,7 @@
 ./gradlew :androidApp:assembleDebug
 ```
 
-[AndroidAPP](https://github.com/Flycat4er/Protein-structure-v2/blob/LR1_KOTLIN/vid%20for%20readme/android-app.gif)
+
+| Android |
+| :---: |
+| <img src="android-app.gif" width="260" alt="Android Demo" /> |
