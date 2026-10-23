@@ -22,4 +22,4 @@
 ```bash
 ./gradlew :androidApp:assembleDebug
 ```
-
+[Android app](https://github.com/Flycat4er/Protein-structure-v2/blob/LR1_KOTLIN/vid%20for%20readme/android%20app.mp4)
